@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "authenticator_lib",
+    "authenticator_bin",
+]
+resolver = "3"
